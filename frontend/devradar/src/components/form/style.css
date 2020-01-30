@@ -1,0 +1,54 @@
+.wrap-form{
+    flex: .6;
+}
+
+form{
+    margin: 10px;
+    padding: 30px;
+    background: #fefefe;
+    max-width: 350px;
+    box-shadow: 2px 2px 10px #0001;
+    height: 300px;
+    border-radius: 3px;
+    position: sticky;
+    top: 10px;
+}
+
+.wrap-form form input{
+    height: 35px;
+    border: 0;
+    width: 100%;
+    padding: 20px 10px;
+    color: #666;
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+    background: none;
+    margin-bottom: 20px;
+}
+
+.wrap-form form input::placeholder{
+    color: #cdcdcd;
+}
+
+.wrap-locale{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrap-form .wrap-locale input{
+    width: 45%;
+}
+
+.btn-send{
+    margin: 10px 0;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    background-image: linear-gradient(to top, #537, #558);
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 3px;
+    box-shadow: 5px 5px 15px #5583;
+    cursor: pointer;
+}
