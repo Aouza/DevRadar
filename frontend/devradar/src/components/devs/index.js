@@ -14,7 +14,7 @@ const Devs = () => (
                         </div>
                         </div>
                         <p>Desenvolvedor Web ReactJS, na empresa Rocketseat, estou estudando para conseguir me realocar no mercado.</p>
-                        <a href="#">Acessar o perfil do Github</a>
+                        <a href="">Acessar o perfil do Github</a>
                  </li>
                  <li className="dev">
                     <div className="wrap-img-name">
@@ -25,7 +25,7 @@ const Devs = () => (
                         </div>
                         </div>
                         <p>Desenvolvedor Web ReactJS, na empresa Rocketseat, estou estudando para conseguir me realocar no mercado.</p>
-                        <a href="#">Acessar o perfil do Github</a>
+                        <a href="">Acessar o perfil do Github</a>
                  </li>
                  <li className="dev">
                     <div className="wrap-img-name">
@@ -36,7 +36,7 @@ const Devs = () => (
                         </div>
                         </div>
                         <p>Desenvolvedor Web ReactJS, na empresa Rocketseat, estou estudando para conseguir me realocar no mercado.</p>
-                        <a href="#">Acessar o perfil do Github</a>
+                        <a href="">Acessar o perfil do Github</a>
                  </li>
                  <li className="dev">
                     <div className="wrap-img-name">
@@ -47,7 +47,7 @@ const Devs = () => (
                         </div>
                         </div>
                         <p>Desenvolvedor Web ReactJS, na empresa Rocketseat, estou estudando para conseguir me realocar no mercado.</p>
-                        <a href="#">Acessar o perfil do Github</a>
+                        <a href="">Acessar o perfil do Github</a>
                  </li>
                  <li className="dev">
                     <div className="wrap-img-name">
@@ -58,7 +58,7 @@ const Devs = () => (
                         </div>
                         </div>
                         <p>Desenvolvedor Web ReactJS, na empresa Rocketseat, estou estudando para conseguir me realocar no mercado.</p>
-                        <a href="#">Acessar o perfil do Github</a>
+                        <a href="">Acessar o perfil do Github</a>
                  </li>
             </ul>
     </div>
